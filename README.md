@@ -2,7 +2,9 @@
 ### Built with Apache Airflow + Pinecone | DATA226 Homework 10
 
 **Student:** Kshitija Shinde 
-**Course:** Data Warehouse — SJSU, Spring 2026  
+
+**Course:** Data Warehouse - SJSU, Spring 2026 
+
 **GitHub:** https://github.com/Kshitija-Shinde9/medium-to-pinecone-search-engine-with-airflow
 
 ---
