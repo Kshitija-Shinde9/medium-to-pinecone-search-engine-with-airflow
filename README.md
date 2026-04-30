@@ -19,7 +19,8 @@ That is what this project does. It understands the meaning behind your search, n
 
 ## How It Works — The Big Picture
 
-![Pipeline Architecture](pipeline_diagram.png)
+<img width="2178" height="1444" alt="image" src="https://github.com/user-attachments/assets/aac0e024-4091-4291-b1d5-e948a38515da" />
+
 
 Every step runs automatically one after another inside Airflow. If one step fails, the rest stop. Each step logs exactly what it did so you can debug it.
 
